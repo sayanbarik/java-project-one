@@ -1,4 +1,4 @@
-# java-one
+# java project
 ## A dynamic Java-based Talent Exchange Platform TalentHub which offers a comprehensive suite of features tailored to both employers and job seekers.
 ### Key Features:
 ### User Profiles: Users can create detailed profiles highlighting their skills, experience, education, and portfolio items. Our platform employs advanced algorithms to match profiles with relevant job postings or talent requirements.
